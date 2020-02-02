@@ -1,2 +1,2 @@
 # hello-world
-Journey starts with the first step.
+This is the beginning of a journey to become as skillful as possible in Computer Science and Information Technology.
